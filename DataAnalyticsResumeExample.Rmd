@@ -1,6 +1,6 @@
 ---
-title: "Kyle Monahan"
-author: Kyle M Monahan
+title: "Jennifer Nutter"
+author: Jennifer L. Nutter
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -20,9 +20,9 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i>kyle.monahan@tufts.edu
-- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
-- <i class="fa fa-phone"></i> +1 123-456-7891
+- <i class="fa fa-envelope"></i>Jennifer.Nutter@tufts.edu
+- <i class="fa fa-github"></i> [github.com/jnutter12/](https://github.com/jnutter12/)
+- <i class="fa fa-phone"></i> +1 857-523-0379
 
 
 Skills {#skills}
@@ -55,10 +55,10 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Kyle Monahan {#title}
+Jennifer Nutter {#title}
 --------------------------------------------------------------------------------
 
-### Data Analytics student seeking Spring 2020 internship
+### Graduate Student seeking full-time employment 
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -66,53 +66,66 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Tufts University
 
-MS Candidate in Data Analysis
+MS Candidate in Innovation and Management
 
 Medford, MA
 
-2014--Current
+2020--Current
 
 
-### Undergraduate University
+### Union College
 
-B.A. in Finance
+B.S. in Biomedical Engineering
 
-Troy, NY 
+Schenectady, NY 
 
-2008--2012
+2015--2019
 
 
 
-Research Experience {data-icon=flask}
+Engineering Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### Fulbright Research Fellow
 
-Tufts University
+Technical University of Darmstadt
 
-Medford, MA
+Hesse, Germany
 
-2014--2019
+Sept.2019--March 2020
 
-- Developed research questions 
-- Provided additional guidance for undergraduate mentors
+- Conducted research on physiological parameters including heart rate, muscle activation, and metabolic consumption used for exoskeleton human in the loop optimization  
+- Assisted in designing a measurement protocol and organizing human trials for the defined study 
+- Designed 3 evaluation programs in MATLAB to analyze the data results 
 
+## Engineering Capstone
 
+Union College
+
+Schenectady, NY
+
+Sept.2018--March 2019
+
+- Collaborated with physicians at Albany Medical Center to understand the need for an innovative pediatric endotracheal tube that could increase oxygenation during clinical procedures  
+- Designed, prototyped, and tested solutions that satisfied user needs  
+- Researched FDA guidelines and discussed Class II approval process with industry professionals 
+
+## Other Experiences
 
 Selected Project Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### DATA-200 Foundations of Data Analyics 
+### DATA-206 Introduction to Data Analytics
 
 Tufts University
 
 Medford, MA
 
-2016--2018
+Jan.2021--April 2021
 
 <!--::: concise-->
-- Deployed a project which predicted likelihood of house purchase with 89% accuracy on data from Boston in 2019.
-- Iterated the model to select the best approach, given neural net, random forest and logistic regression.
+- Deployed a project which investigated the relationship between disability and socioeconomic status. 
+- Created a linear regression model that predicted annual salary given type of disability, year, and poverty level. 
 <!--:::-->
 
 
